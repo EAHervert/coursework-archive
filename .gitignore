@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+
+# C++
+*.o
+*.out
+*.exe
+*.app
+*.dylib
+
+# C# / .NET
+bin/
+obj/
+*.user
+
+# Java
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
