@@ -1,0 +1,18 @@
+		   SALES REPORT FOR VENDING MACHINE
+
+
+Name of Drink		Price of Drink		Amount in Inventory
+
+Black Velvet			1.25			11			
+
+Panama				1.50			10			
+
+Alexander			1.50			9			
+
+Hurricane			1.75			12			
+
+Matador				2.00			13			
+
+TOTAL AMOUNT: 10.00
+
+NET GAIN: 0.00
