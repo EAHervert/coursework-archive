@@ -1,0 +1,318 @@
+Test 1
+******************************************************************************************************************
+
+This Program will simulate a game of shut the box.
+
+
+The open values are: [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+Here are your Dice: 5 3
+The options are:
+1: Shut 5
+2: Shut 3
+3: Shut 8
+Enter which value you want shut: 8
+Roll Count : 1
+
+The open values are: [1] [2] [3] [4] [5] [6] [7] [9] [10] [11] [12]
+Here are your Dice: 3 3
+The options are:
+1: Shut 3
+2: Shut 6
+Enter which value you want shut: 6
+Roll Count : 2
+
+The open values are: [1] [2] [3] [4] [5] [7] [9] [10] [11] [12]
+Here are your Dice: 4 6
+The options are:
+1: Shut 4
+2: Shut 10
+Enter which value you want shut: 10
+Roll Count : 3
+
+The open values are: [1] [2] [3] [4] [5] [7] [9] [11] [12]
+Here are your Dice: 6 3
+The options are:
+1: Shut 3
+2: Shut 9
+Enter which value you want shut: 9
+Roll Count : 4
+
+The open values are: [1] [2] [3] [4] [5] [7] [11] [12]
+Here are your Dice: 6 5
+The options are:
+1: Shut 5
+2: Shut 11
+Enter which value you want shut: 11
+Roll Count : 5
+
+The open values are: [1] [2] [3] [4] [5] [7] [12]
+Here are your Dice: 4 4
+The options are:
+1: Shut 4
+Enter which value you want shut: 4
+Roll Count : 6
+
+The open values are: [1] [2] [3] [5] [7] [12]
+Here are your Dice: 6 6
+The options are:
+1: Shut 12
+Enter which value you want shut: 12
+Roll Count : 7
+
+The open values are: [1] [2] [3] [5] [7]
+Here are your Dice: 3 2
+The options are:
+1: Shut 3
+2: Shut 2
+3: Shut 5
+Enter which value you want shut: 5
+Roll Count : 8
+
+The open values are: [1] [2] [3] [7]
+Here are your Dice: 2 2
+The options are:
+1: Shut 2
+Enter which value you want shut: 2
+Roll Count : 9
+
+The open values are: [1] [3] [7]
+Here are your Dice: 5 3
+The options are:
+1: Shut 3
+Enter which value you want shut: 3
+Roll Count : 10
+
+Invalid Roll. Dice were: 4 5
+Roll Count : 11
+
+Invalid Roll. Dice were: 2 4
+Roll Count : 12
+
+Invalid Roll. Dice were: 6 6
+Roll Count : 13
+
+Invalid Roll. Dice were: 5 3
+Roll Count : 14
+
+Invalid Roll. Dice were: 2 3
+Roll Count : 15
+
+The open values are: [1] [7]
+Here are your Dice: 1 6
+The options are:
+1: Shut 1
+2: Shut 7
+Enter which value you want shut: 7
+Roll Count : 16
+
+The open values are: [1]
+Here are your Dice: 1
+The options are:
+1: Shut 1
+Enter which value you want shut: 1
+Roll Count : 17
+
+Game Completed.
+Final Roll Count: 17
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+This Program will simulate a game of shut the box.
+
+
+The open values are: [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
+Here are your Dice: 1 3
+The options are:
+1: Shut 1
+2: Shut 3
+3: Shut 4
+Enter which value you want shut: 4
+Roll Count : 1
+
+The open values are: [1] [2] [3] [5] [6] [7] [8] [9] [10] [11] [12]
+Here are your Dice: 5 1
+The options are:
+1: Shut 5
+2: Shut 1
+3: Shut 6
+Enter which value you want shut: 6
+Roll Count : 2
+
+The open values are: [1] [2] [3] [5] [7] [8] [9] [10] [11] [12]
+Here are your Dice: 3 6
+The options are:
+1: Shut 3
+2: Shut 9
+Enter which value you want shut: 9
+Roll Count : 3
+
+The open values are: [1] [2] [3] [5] [7] [8] [10] [11] [12]
+Here are your Dice: 3 1
+The options are:
+1: Shut 3
+2: Shut 1
+Enter which value you want shut: 3
+Roll Count : 4
+
+The open values are: [1] [2] [5] [7] [8] [10] [11] [12]
+Here are your Dice: 6 2
+The options are:
+1: Shut 2
+2: Shut 8
+Enter which value you want shut: 8
+Roll Count : 5
+
+The open values are: [1] [2] [5] [7] [10] [11] [12]
+Here are your Dice: 2 3
+The options are:
+1: Shut 2
+2: Shut 5
+Enter which value you want shut: 5
+Roll Count : 6
+
+The open values are: [1] [2] [7] [10] [11] [12]
+Here are your Dice: 2 6
+The options are:
+1: Shut 2
+Enter which value you want shut: 2
+Roll Count : 7
+
+Invalid Roll. Dice were: 2 4
+Roll Count : 8
+
+The open values are: [1] [7] [10] [11] [12]
+Here are your Dice: 2 5
+The options are:
+1: Shut 7
+Enter which value you want shut: 7
+Roll Count : 9
+
+Invalid Roll. Dice were: 4 2
+Roll Count : 10
+
+The open values are: [1] [10] [11] [12]
+Here are your Dice: 5 1
+The options are:
+1: Shut 1
+Enter which value you want shut: 1
+Roll Count : 11
+
+Invalid Roll. Dice were: 3 4
+Roll Count : 12
+
+Invalid Roll. Dice were: 6 1
+Roll Count : 13
+
+Invalid Roll. Dice were: 5 3
+Roll Count : 14
+
+Invalid Roll. Dice were: 6 1
+Roll Count : 15
+
+Invalid Roll. Dice were: 4 5
+Roll Count : 16
+
+Invalid Roll. Dice were: 4 2
+Roll Count : 17
+
+The open values are: [10] [11] [12]
+Here are your Dice: 4 6
+The options are:
+1: Shut 10
+Enter which value you want shut: 10
+Roll Count : 18
+
+Invalid Roll. Dice were: 2 3
+Roll Count : 19
+
+Invalid Roll. Dice were: 1 5
+Roll Count : 20
+
+Invalid Roll. Dice were: 1 2
+Roll Count : 21
+
+Invalid Roll. Dice were: 3 4
+Roll Count : 22
+
+Invalid Roll. Dice were: 4 1
+Roll Count : 23
+
+Invalid Roll. Dice were: 2 4
+Roll Count : 24
+
+Invalid Roll. Dice were: 3 2
+Roll Count : 25
+
+Invalid Roll. Dice were: 5 3
+Roll Count : 26
+
+Invalid Roll. Dice were: 3 5
+Roll Count : 27
+
+Invalid Roll. Dice were: 6 2
+Roll Count : 28
+
+Invalid Roll. Dice were: 5 2
+Roll Count : 29
+
+Invalid Roll. Dice were: 4 1
+Roll Count : 30
+
+Invalid Roll. Dice were: 2 3
+Roll Count : 31
+
+Invalid Roll. Dice were: 4 6
+Roll Count : 32
+
+Invalid Roll. Dice were: 3 1
+Roll Count : 33
+
+Invalid Roll. Dice were: 4 5
+Roll Count : 34
+
+Invalid Roll. Dice were: 6 1
+Roll Count : 35
+
+Invalid Roll. Dice were: 3 6
+Roll Count : 36
+
+Invalid Roll. Dice were: 5 5
+Roll Count : 37
+
+Invalid Roll. Dice were: 6 1
+Roll Count : 38
+
+The open values are: [11] [12]
+Here are your Dice: 6 6
+The options are:
+1: Shut 12
+Enter which value you want shut: 12
+Roll Count : 39
+
+Invalid Roll. Dice were: 4 3
+Roll Count : 40
+
+Invalid Roll. Dice were: 2 3
+Roll Count : 41
+
+Invalid Roll. Dice were: 5 1
+Roll Count : 42
+
+Invalid Roll. Dice were: 3 5
+Roll Count : 43
+
+Invalid Roll. Dice were: 4 3
+Roll Count : 44
+
+The open values are: [11]
+Here are your Dice: 5 6
+The options are:
+1: Shut 11
+Enter which value you want shut: 11
+Roll Count : 45
+
+Game Completed.
+Final Roll Count: 45
+Press any key to continue . . .

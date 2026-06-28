@@ -1,0 +1,17 @@
+Test 1
+******************************************************************************************************************
+
+C:\Users\EsauH\Desktop\darts.txt
+
+SCORE: 240 to 240, TIE.
+SCORE: 200 to 140, PLAYER 1 WINS.
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+C:\Users\EsauH\Desktop\darts2.txt
+
+SCORE: 60 to 180, PLAYER 2 WINS.
+SCORE: 220 to 120, PLAYER 1 WINS.
+Press any key to continue . . .

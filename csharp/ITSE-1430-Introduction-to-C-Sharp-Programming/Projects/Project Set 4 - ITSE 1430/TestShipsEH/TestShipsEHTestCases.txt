@@ -1,0 +1,27 @@
+Test 1
+******************************************************************************************************************
+
+Name: BananaPhone
+Year Built: 1974
+
+Name: Disney
+Maximum passengers: 2500
+
+Name: Load
+Cargo capacity: 1500 tons
+
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+Name: BoatyMcBoatFace
+Year Built: 2015
+
+Name: Nickelodean
+Maximum passengers: 2500
+
+Name: Hauling
+Cargo capacity: 1500 tons
+
+Press any key to continue . . .

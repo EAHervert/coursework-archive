@@ -1,0 +1,25 @@
+Test 1
+===================================================================
+
+Enter a positive column number between 1 and 1000000: -1
+That was not a valid input!
+
+Enter a positive column number between 1 and 1000000: 1000001
+That was not a valid input!
+
+Enter a positive column number between 1 and 1000000: 80
+CB
+Press any key to continue . . .
+
+Test 2
+====================================================================
+
+Enter a positive column number between 1 and 1000000: -57
+That was not a valid input!
+
+Enter a positive column number between 1 and 1000000: 2024217
+That was not a valid input!
+
+Enter a positive column number between 1 and 1000000: 703
+AAA
+Press any key to continue . . .

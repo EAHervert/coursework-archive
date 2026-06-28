@@ -1,0 +1,135 @@
+Test 1
+******************************************************************************************************************
+
+Let's Play Penny Pincher.
+1 1 1 1 1
+1 2 2 2 1
+1 2 3 2 1
+1 2 2 2 1
+1 1 1 1 1
+
+Toss #:1
+Total Amount: 2
+
+1 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 2 2 2 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:2
+Total Amount: 4
+
+1 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 2 2 P 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:3
+Total Amount: 5
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 2 2 P 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:4
+Total Amount: 7
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 P 2 P 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:5
+Total Amount: 8
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 P 2 P 1
+1 1 1 1 P
+
+The final value is 8.
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 P 2 P 1
+1 1 1 1 P
+Press any key to continue . . .
+
+Test 2
+******************************************************************************************************************
+
+Let's Play Penny Pincher.
+1 1 1 1 1
+1 2 2 2 1
+1 2 3 2 1
+1 2 2 2 1
+1 1 1 1 1
+
+Toss #:1
+Total Amount: 2
+
+1 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 2 2 2 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:2
+Total Amount: 4
+
+1 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 2 2 P 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:3
+Total Amount: 5
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 3 2 1
+1 2 2 P 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:4
+Total Amount: 8
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 P 2 1
+1 2 2 P 1
+1 1 1 1 1
+Press Enter to toss a penny
+
+Toss #:5
+Total Amount: 9
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 P 2 1
+1 2 2 P 1
+1 1 1 1 P
+
+The final value is 9.
+
+P 1 1 1 1
+1 P 2 2 1
+1 2 P 2 1
+1 2 2 P 1
+1 1 1 1 P
+Press any key to continue . . .

@@ -1,0 +1,51 @@
+Test 1
+*********************************************************************************************************
+
+Table Tennin
+
+This program will predict the outcome of a match between two players.
+
+Enter skill level for Player 1: 5
+Enter skill level for Player 2: 5
+
+Number won by Player 1: 25
+Number won by Player 2: 27
+
+Overall Winner is Player 2.
+Press any key to continue . . .
+
+Test 2
+*********************************************************************************************************
+
+Table Tennin
+
+This program will predict the outcome of a match between two players.
+
+Enter skill level for Player 1: 6
+Enter skill level for Player 2: 4
+
+Number won by Player 1: 11
+Number won by Player 2: 5
+
+Overall Winner is Player 1.
+Press any key to continue . . .
+
+Test 3
+*********************************************************************************************************
+
+Table Tennin
+
+This program will predict the outcome of a match between two players.
+
+Enter skill level for Player 1: 11
+This was not a valid input.
+Enter skill level for Player 1: 1.1
+Enter skill level for Player 2: -78
+This was not a valid input.
+Enter skill level for Player 2: 7.8
+
+Number won by Player 1: 2
+Number won by Player 2: 11
+
+Overall Winner is Player 2.
+Press any key to continue . . .

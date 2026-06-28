@@ -1,0 +1,37 @@
+Test 1
+=======================================================================
+
+This program will take a positive integer and see if it is evil.
+
+Enter a positive value: -1
+-1 was not a valid value!
+
+Enter a positive value: 1001
+1001 was not a valid value!
+
+Enter a positive value: 15
+
+Your value was 15.
+The number in Binary is: 1111
+15 is an evil number >:).
+
+Press any key to continue . . .
+
+Test 2
+===========================================================================
+
+This program will take a positive integer and see if it is evil.
+
+Enter a positive value: -57
+-57 was not a valid value!
+
+Enter a positive value: 10101001
+10101001 was not a valid value!
+
+Enter a positive value: 997
+
+Your value was 997.
+The number in Binary is: 11 1110 0101
+997 is not an evil number :).
+
+Press any key to continue . . .
